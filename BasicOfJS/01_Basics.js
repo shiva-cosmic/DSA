@@ -14,3 +14,10 @@ console.log(a);
 var a;
 
 // WarmUp thingsss...!!
+
+// Haluya Question
+
+let a = 10;
+let b = 20;
+
+console.log(a + b);
