@@ -27,4 +27,6 @@
 let a = 12;
 let b = "13";
 
-console.log(a + b);
+console.log(typeof (a + b)); // is procces ko concatenation khete hai addition nhi whenn u add number with string
+
+// hack: if number is in blue color then it is a number type and if somthing is in black color then it is a string.
