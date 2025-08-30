@@ -13,4 +13,4 @@ console.log("1" - 1); // result: 0 , internpreter string ko number mein convert 
 
 // Q: Accept and print the answer
 let age = prompt("What is ur age:");
-console.log(typeof age);
+console.log(typeof age); // this give u a pop up which ask ur age  and also it type is string autommatically and if check by type of then it return string data type, and we also convert it into Number by using number function
