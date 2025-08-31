@@ -8,3 +8,7 @@ console.log(Math.floor(a / b)); // if u want that ki point mein answer na aye di
 console.log(a % b);
 
 // MOD humesa reminder deta hai answer mein
+
+let c = 4569;
+
+console.log(c % 10); // kisi bhi digit chache wo kitni bhi badi wo uska agr mod nikl rhe ho to last ki digit uska answer ayggi.
