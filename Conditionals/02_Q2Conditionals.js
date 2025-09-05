@@ -10,4 +10,6 @@ if (amount > 0 && amount <= 5000) {
   console.log(amount - Math.floor((10 * amount) / 100));
 } else if (amount > 9000) {
   console.log(amount - Math.floor((20 * amount) / 100));
+} else {
+  console.log("Wrong Input");
 }
